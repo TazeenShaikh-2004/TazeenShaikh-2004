@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Graduate
+🎓 B.Tech in Computer Science Engineering (2026 Graduate)
 
 💻 Passionate about Software Development and Full Stack Web Development.
 
