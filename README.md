@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tazeen Shaikh</h1>
 
-<!--
-**TazeenShaikh-2004/TazeenShaikh-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer | Java Full Stack Developer | MERN Stack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Graduate
+
+💻 Passionate about Software Development and Full Stack Web Development.
+
+🌱 Currently learning Spring Boot and strengthening my Data Structures & Algorithms skills.
+
+🚀 Actively looking for opportunities as a Software Developer, Java Full Stack Developer, or MERN Stack Developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<a href="www.linkedin.com/in/tazeen-shaikh-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TazeenShaikh-2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
